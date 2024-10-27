@@ -2,7 +2,7 @@
 The ServiceNow System Administrator and AWS Solutions Architect – Associate certifications validate foundational skills in managing ServiceNow platforms and designing resilient AWS cloud architectures.
 
 
-awsa.png
+![AWS Architecture Screenshot](awsa.png)
 
 
 In earning the AWS Solutions Architect – Associate certification, I developed comprehensive skills in designing secure, cost-efficient, and high-performing cloud solutions on AWS. This journey involved deep technical training, hands-on experience, and real-world problem-solving with AWS services, focusing on core areas like compute, storage, networking, and database. I gained a solid foundation in best practices for architecting resilient solutions, including high availability, disaster recovery, fault tolerance, and scalability, as well as optimizing workloads for cost and performance.
@@ -10,7 +10,7 @@ This certification has equipped me for roles such as Cloud Solutions Architect, 
 
 
 
-servicenow.png
+![ServiceNow Screenshot](servicenow.png)
 
 
 In earning the ServiceNow System Administrator certification, I built a strong foundation in managing, configuring, and optimizing ServiceNow environments to enhance organizational workflows and efficiency. This certification process required mastering key platform capabilities, including user and group administration, configuration of forms and lists, workflow automation, and implementing security policies. Through hands-on training, I learned how to effectively customize ServiceNow applications to align with business processes and improve user experiences.
