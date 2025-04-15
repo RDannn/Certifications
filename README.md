@@ -1,5 +1,5 @@
 # Certifications
-The ServiceNow System Administrator and AWS Solutions Architect – Associate certifications validate foundational skills in managing ServiceNow platforms and designing resilient AWS cloud architectures. Just achieved AWS Certified AI Practitioner.
+The ServiceNow System Administrator and AWS Solutions Architect – Associate certifications validate foundational skills in managing ServiceNow platforms and designing resilient AWS cloud architectures. Just achieved AWS Certified AI Practitioner,& Azure AI Fundamentals.
 
 ![saa](https://github.com/user-attachments/assets/352d74db-e843-448b-86ff-42e1603c0aee)
 
@@ -7,6 +7,19 @@ The ServiceNow System Administrator and AWS Solutions Architect – Associate ce
 
 In earning the AWS Solutions Architect – Associate certification, I developed comprehensive skills in designing secure, cost-efficient, and high-performing cloud solutions on AWS. This journey involved deep technical training, hands-on experience, and real-world problem-solving with AWS services, focusing on core areas like compute, storage, networking, and database. I gained a solid foundation in best practices for architecting resilient solutions, including high availability, disaster recovery, fault tolerance, and scalability, as well as optimizing workloads for cost and performance.
 This certification has equipped me for roles such as Cloud Solutions Architect, AWS Cloud Engineer, DevOps Engineer, and Infrastructure Architect—positions that require the ability to translate business requirements into scalable and reliable cloud solutions. My background with AWS enables me to contribute meaningfully by designing architectures that align with an organization’s goals, optimizing for operational efficiency, cost savings, and seamless integration across services. I am ready to bring these skills to a forward-thinking team, leveraging AWS to drive both innovation and operational excellence.
+
+
+![AI-900+Badge](https://github.com/user-attachments/assets/f314a066-75d4-484a-9bb5-f2cb054acd2c)
+
+🎓 Microsoft Certified: Azure AI Fundamentals
+This certification validates foundational knowledge of Artificial Intelligence (AI) and Machine Learning (ML) concepts and their implementation using Microsoft Azure services. Key focus areas include:
+
+Core AI concepts such as supervised/unsupervised learning, classification, regression, and clustering
+Azure AI services like Azure Machine Learning, Cognitive Services, and Azure Bot Services
+Computer Vision, Natural Language Processing (NLP), and Conversational AI capabilities in Azure
+Understanding responsible AI principles and use cases across industries
+This achievement demonstrates my ability to identify AI workloads and describe key principles of AI workloads on Azure—paving the way for more advanced certifications and real-world AI projects in cloud environments.
+
 
 ![aws-certified-ai-practitioner](https://github.com/user-attachments/assets/dbda2499-d252-4d8b-a915-fedbf771507b)
 
